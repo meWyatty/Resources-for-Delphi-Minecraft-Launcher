@@ -3,5 +3,6 @@
   "URL": "",
   "Caption": "Launcher by Wyatty",
   "Width": 1115,
-  "Height": 627
+  "Height": 627,
+  "UrlBitmapForm": "https://raw.githubusercontent.com/meWyatty/Resources-for-Delphi-Minecraft-Launcher/refs/heads/main/LauncherBackend.jpg"
 }
