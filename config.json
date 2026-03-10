@@ -9,7 +9,8 @@
     {
       "name": "Vanilla",
       "description": [
-        "A standard build for solo or continent survival!", "This build includes the following mods: OptiFine, JourneyMap, SkinRestorer"
+        "A standard build for solo or continent survival!", 
+        "This build includes the following mods: OptiFine, JourneyMap, SkinRestorer"
       ],
       "mods": [
 
