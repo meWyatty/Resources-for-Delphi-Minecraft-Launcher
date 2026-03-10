@@ -7,17 +7,17 @@
   "UrlBitmapForm": "https://raw.githubusercontent.com/meWyatty/Resources-for-Delphi-Minecraft-Launcher/refs/heads/main/new_backend.png",
   "assembly": [
     {
-      "name": "Test1",
+      "name": "Vanilla",
       "description": [
-        "Test description 1", "Test description 2"
+        "A standard build for solo or continent survival!", "This build includes the following mods: OptiFine, JourneyMap, SkinRestorer"
       ],
       "mods": [
 
       ],
       "version": "1.21.11",
-      "jre": "",
-      "jre_ver": "",
-      "icon": "",
+      "jre": "21",
+      "jre_ver": "21",
+      "icon": "https://raw.githubusercontent.com/meWyatty/Resources-for-Delphi-Minecraft-Launcher/refs/heads/main/ico1.png",
       "visible": true
     }
   ]
