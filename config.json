@@ -2,7 +2,21 @@
   "LastVersion": "",
   "URL": "",
   "Caption": "Launcher by Wyatty",
-  "Width": 327,
-  "Height": 433,
-  "UrlBitmapForm": "https://raw.githubusercontent.com/meWyatty/Resources-for-Delphi-Minecraft-Launcher/refs/heads/main/minecraft_backend.png"
+  "Width": 699,
+  "Height": 412,
+  "UrlBitmapForm": "https://raw.githubusercontent.com/meWyatty/Resources-for-Delphi-Minecraft-Launcher/refs/heads/main/minecraft_backend.png",
+  "assembly": [
+    {
+      "name": "Test1",
+      "description": [
+        "Test description 1", "Test description 2"
+      ],
+      "mods": [
+
+      ],
+      "version": "1.21.11",
+      "icon": "",
+      "visible": true
+    }
+  ]
 }
