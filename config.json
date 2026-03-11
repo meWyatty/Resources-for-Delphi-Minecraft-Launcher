@@ -18,17 +18,6 @@
       "jre_ver": "21",
       "icon": "https://raw.githubusercontent.com/meWyatty/Resources-for-Delphi-Minecraft-Launcher/refs/heads/main/ico1.png",
       "visible": true
-    }, {
-      "name": "PvP18",
-      "description": [
-        "A standard build for PVP!",""
-      ],
-      "mods": [],
-      "version": "1.8.9", 
-      "jre": "",
-      "jre_ver": "",
-      "icon": "",
-      "visible": true
     }
   ]
 }
