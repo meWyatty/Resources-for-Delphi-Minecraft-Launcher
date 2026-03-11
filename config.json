@@ -12,12 +12,23 @@
         "A standard build for solo or continent survival!", 
         "This build includes the following mods: OptiFine, JourneyMap, SkinRestorer"
       ],
-      "mods": [
-
-      ],
+      "mods": [],
       "version": "1.21.11",
-      "jre": "21",
+      "jre": "https://raw.githubusercontent.com/meWyatty/Resources-for-Delphi-Minecraft-Launcher/refs/heads/main/jre21.7z",
       "jre_ver": "21",
+      "icon": "https://raw.githubusercontent.com/meWyatty/Resources-for-Delphi-Minecraft-Launcher/refs/heads/main/ico1.png",
+      "visible": true
+    },
+    {
+      "name": "PvP18",
+      "description": [
+        "A standard build for solo or continent survival!", 
+        "This build includes the following mods: OptiFine, JourneyMap, SkinRestorer"
+      ],
+      "mods": [],
+      "version": "1.8.9", 
+      "jre": "https://raw.githubusercontent.com/meWyatty/Resources-for-Delphi-Minecraft-Launcher/refs/heads/main/jre21.7z",
+      "jre_ver": "8",
       "icon": "https://raw.githubusercontent.com/meWyatty/Resources-for-Delphi-Minecraft-Launcher/refs/heads/main/ico1.png",
       "visible": true
     }
